@@ -20,3 +20,5 @@ Make sure you have a working sound player in Goldendict. To do so, in Goldendict
 
 Here is [Mediafire link](https://www.mediafire.com/folder/wc35mt3qt7ulw/English) to audio files
 (either download `A-Z` files or `pronunciations.files.zip`).
+
+If a word is missing, please open an [issue](https://github.com/yousefvand/pronunciations/issues)
