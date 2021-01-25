@@ -1,6 +1,6 @@
 # pronunciations
 
-If you have ever wondered to have an offline dictionary with full pronunciations (like Google voice), you are at the right place.
+If you have ever wondered to have an offline dictionary with full pronunciations (like Google voice), you are at the right place. Currently this project contains more than 500K audio files.
 
 With your own `words.txt` and `generate.sh` script, you can mass download the words in your `words.txt` with Google voice as `mp3` files.
 
@@ -21,4 +21,4 @@ Make sure you have a working sound player in Goldendict. To do so, in Goldendict
 Here is [Mediafire link](https://www.mediafire.com/folder/wc35mt3qt7ulw/English) to audio files
 (either download `A-Z` files or `pronunciations.files.zip`).
 
-If a word is missing, please open an [issue](https://github.com/yousefvand/pronunciations/issues)
+If a word is missing, please open an [issue](https://github.com/yousefvand/pronunciations/issues).
